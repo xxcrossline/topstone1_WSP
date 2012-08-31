@@ -1,0 +1,22 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	Width: 960px;
+	background: url(../images/pyramid.png);
+}
+
+h3 {
+	color: #00F;
+}
+
+h4 {
+	color: #009;
+}
+
+ul {
+	margin: 0;
+}
+
+li {
+	list-style-type: none;
+}
